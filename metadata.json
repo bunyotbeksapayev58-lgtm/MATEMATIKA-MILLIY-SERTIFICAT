@@ -1,0 +1,6 @@
+{
+  "name": "Matematika Milliy Sertifikat",
+  "description": "Matematika fanidan Milliy sertifikat imtihoniga tayyorlovchi professional ta'lim platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
